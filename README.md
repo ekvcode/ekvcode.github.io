@@ -36,7 +36,7 @@ Here are some screenshots of the web site:
 
 ![alt text](assets/images/screenshot-3.png)
 
-To run the website, go to the link: [username.github.io](username.github.io)
+To run the website, go to the link: [ekvcode.github.io](https://github.com/ekvcode/ekvcode.github.io)
 
 ## Features
 
